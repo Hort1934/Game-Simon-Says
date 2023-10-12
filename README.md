@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, suggestions, or issues, please contact [Your Name](https://github.com/Hort1934).
+For questions, suggestions, or issues, please contact [Hort1934](https://github.com/Hort1934).
 
 Happy gaming!
 ```
