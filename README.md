@@ -53,4 +53,3 @@ For questions, suggestions, or issues, please contact [Hort1934](https://github.
 Happy gaming!
 ```
 
-In this README, replace the placeholders (`yourusername`, `your-demo-link-here.com`, `screenshot.png`, `Your Name`, etc.) with your actual details and information about your game project.
