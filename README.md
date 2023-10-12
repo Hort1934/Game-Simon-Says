@@ -45,7 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by the classic Simon game.
-- Sound effects from [FreeSound](https://freesound.org/).
 
 ## Contact
 
