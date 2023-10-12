@@ -19,7 +19,7 @@ Game_Simon_Says is a fun and interactive memory game inspired by the classic Sim
 
 2. Open the project folder using your favorite code editor.
 
-3. Open the `index.html` file in your web browser.
+3. Open the `Test.py` file in your code editor.
 
 4. Start playing and enjoy the game!
 
