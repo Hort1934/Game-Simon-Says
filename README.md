@@ -2,7 +2,8 @@
 
 Game_Simon_Says is a fun and interactive memory game inspired by the classic Simon game. Test your memory and pattern recognition skills by repeating sequences of colors and sounds.
 
-![Game_Simon_Says Screenshot]([screenshot.png](https://user-images.githubusercontent.com/61141309/231156525-777cc4fd-6f2e-4809-a451-2f96d91ef019.png))
+![Game_Simon_Says Screenshot]
+![image](https://user-images.githubusercontent.com/61141309/231156525-777cc4fd-6f2e-4809-a451-2f96d91ef019.png)
 
 ## Features
 
@@ -21,4 +22,4 @@ You can play the game online at [Game_Simon_Says Demo](https://your-demo-link-he
    git clone https://github.com/yourusername/Game_Simon_Says.git
 
 
-![image](https://user-images.githubusercontent.com/61141309/231156525-777cc4fd-6f2e-4809-a451-2f96d91ef019.png)
+
